@@ -1634,3 +1634,941 @@ JavaScript error: moz-extension://f403b254-da14-4a71-84f3-706baea9e5ac/selector/
 1510509380795	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
 1510509381578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1510509382421	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511284925	geckodriver	INFO	geckodriver 0.19.1
+1510511284931	geckodriver	INFO	Listening on 127.0.0.1:34225
+1510511286101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1O3HRtXKs6wE"
+1510511286741	Marionette	INFO	Enabled via --marionette
+1510511288063	Marionette	INFO	Listening on port 44463
+1510511288154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510511288253	Marionette	DEBUG	Register listener.js for window 2147483649
+1510511288273	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510511288779	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510511288781	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510511292046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511292743	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510511345006	geckodriver	INFO	geckodriver 0.19.1
+1510511345010	geckodriver	INFO	Listening on 127.0.0.1:42265
+1510511346153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M6gXTSZK2gQk"
+1510511346719	Marionette	INFO	Enabled via --marionette
+1510511348062	Marionette	INFO	Listening on port 38743
+1510511348164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510511348236	Marionette	DEBUG	Register listener.js for window 2147483649
+1510511348264	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510511348576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510511348577	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510511349750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511350163	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511351011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511351883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511352763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511353646	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511354515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511355400	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511356273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511357117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511357994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511431137	geckodriver	INFO	geckodriver 0.19.1
+1510511431142	geckodriver	INFO	Listening on 127.0.0.1:50929
+1510511432285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XUJDRWHIhkcA"
+1510511432822	Marionette	INFO	Enabled via --marionette
+1510511434158	Marionette	INFO	Listening on port 36551
+1510511434233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510511434323	Marionette	DEBUG	Register listener.js for window 2147483649
+1510511434349	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510511434578	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510511434578	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510511435738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511435941	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511436701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511437570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511438425	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511439297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511440166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511441187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511482466	geckodriver	INFO	geckodriver 0.19.1
+1510511482471	geckodriver	INFO	Listening on 127.0.0.1:43071
+1510511483614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cm2YQFgF42Ns"
+1510511484169	Marionette	INFO	Enabled via --marionette
+1510511485528	Marionette	INFO	Listening on port 46491
+1510511485624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510511485726	Marionette	DEBUG	Register listener.js for window 2147483649
+1510511485753	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510511486086	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510511486087	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510511487008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511487214	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511488011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511488876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511489715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511490563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511491409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511492254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511493137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511494188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510511552667	geckodriver	INFO	geckodriver 0.19.1
+1510511552672	geckodriver	INFO	Listening on 127.0.0.1:41203
+1510511553815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OMJ5zs3oHwUs"
+1510511554351	Marionette	INFO	Enabled via --marionette
+1510511555787	Marionette	INFO	Listening on port 43157
+1510511555826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510511555908	Marionette	DEBUG	Register listener.js for window 2147483649
+1510511555940	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510511556177	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510511556178	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510511557167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511557364	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511558136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511559024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511559880	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511560775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511562231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511617262	Marionette	DEBUG	Register listener.js for window 2147483653
+1510511617594	Marionette	DEBUG	Register listener.js for window 4294967297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1510511797364	geckodriver	INFO	geckodriver 0.19.1
+1510511797369	geckodriver	INFO	Listening on 127.0.0.1:54063
+1510511798514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XigQCYGkDnrj"
+1510511799068	Marionette	INFO	Enabled via --marionette
+1510511800466	Marionette	INFO	Listening on port 33113
+1510511800534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510511800629	Marionette	DEBUG	Register listener.js for window 2147483649
+1510511802918	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510511803427	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510511803428	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510511804607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511804816	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510511994149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510511999085	Marionette	DEBUG	Register listener.js for window 2147483653
+1510511999348	Marionette	DEBUG	Register listener.js for window 4294967297
+1510512096543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512269573	geckodriver	INFO	geckodriver 0.19.1
+1510512269577	geckodriver	INFO	Listening on 127.0.0.1:34265
+1510512270742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EtiDtWmiLTdg"
+1510512271284	Marionette	INFO	Enabled via --marionette
+1510512272632	Marionette	INFO	Listening on port 45067
+1510512272694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510512272782	Marionette	DEBUG	Register listener.js for window 2147483649
+1510512272825	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510512273151	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510512273152	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510512298926	geckodriver	INFO	geckodriver 0.19.1
+1510512298931	geckodriver	INFO	Listening on 127.0.0.1:50589
+1510512300083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.95o9MyuHhpHO"
+1510512300647	Marionette	INFO	Enabled via --marionette
+1510512301990	Marionette	INFO	Listening on port 40699
+1510512302098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510512302200	Marionette	DEBUG	Register listener.js for window 2147483649
+1510512302235	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510512302879	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510512302880	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510512303842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510512304045	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510512304869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512305429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512305971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512379269	geckodriver	INFO	geckodriver 0.19.1
+1510512379274	geckodriver	INFO	Listening on 127.0.0.1:59995
+1510512380413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XRnID8XT5BOm"
+1510512380947	Marionette	INFO	Enabled via --marionette
+1510512382280	Marionette	INFO	Listening on port 45039
+1510512382363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510512382443	Marionette	DEBUG	Register listener.js for window 2147483649
+1510512382470	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510512382727	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510512382727	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510512383759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510512383990	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510512384744	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512385623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512386462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512387370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512388239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512389148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512389923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512390720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512414089	Marionette	DEBUG	Register listener.js for window 2147483653
+1510512414410	Marionette	DEBUG	Register listener.js for window 4294967297
+1510512534890	geckodriver	INFO	geckodriver 0.19.1
+1510512534894	geckodriver	INFO	Listening on 127.0.0.1:41575
+1510512536042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.agI3w2pFEEfy"
+1510512536598	Marionette	INFO	Enabled via --marionette
+1510512537982	Marionette	INFO	Listening on port 37909
+1510512538063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510512538164	Marionette	DEBUG	Register listener.js for window 2147483649
+1510512538183	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510512538519	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510512538520	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510512539583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510512539822	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510512540603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512541464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512542361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512543178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512543942	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510512816265	Marionette	DEBUG	Register listener.js for window 2147483653
+1510512816568	Marionette	DEBUG	Register listener.js for window 4294967297
+1510512831537	Marionette	DEBUG	Register listener.js for window 6442450945
+1510513128999	Marionette	DEBUG	Register listener.js for window 8589934593
+1510513277758	geckodriver	INFO	geckodriver 0.19.1
+1510513277762	geckodriver	INFO	Listening on 127.0.0.1:52367
+1510513278903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uhZ8ilVj4y30"
+1510513279441	Marionette	INFO	Enabled via --marionette
+1510513280852	Marionette	INFO	Listening on port 42929
+1510513280912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513280985	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513281021	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513281425	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513281426	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513283155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513283511	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513284355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513285262	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513286130	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513286984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513287827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513288774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513325621	geckodriver	INFO	geckodriver 0.19.1
+1510513325626	geckodriver	INFO	Listening on 127.0.0.1:37017
+1510513326791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qWPdnyv8r5DD"
+1510513327368	Marionette	INFO	Enabled via --marionette
+1510513328695	Marionette	INFO	Listening on port 34493
+1510513328705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513328778	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513328814	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513329906	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513329907	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513333035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513333677	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513334468	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513335310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513336157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513337363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513338135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513390853	geckodriver	INFO	geckodriver 0.19.1
+1510513390858	geckodriver	INFO	Listening on 127.0.0.1:56453
+1510513392000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rZvFlMjgGIsr"
+1510513392581	Marionette	INFO	Enabled via --marionette
+1510513393928	Marionette	INFO	Listening on port 41407
+1510513394019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513394113	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513394145	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513394399	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513394400	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513407809	geckodriver	INFO	geckodriver 0.19.1
+1510513407814	geckodriver	INFO	Listening on 127.0.0.1:60361
+1510513408980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LrQZkAzpUA0F"
+1510513409516	Marionette	INFO	Enabled via --marionette
+1510513410876	Marionette	INFO	Listening on port 39803
+1510513410933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513411015	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513411038	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513423932	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513423933	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513424940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513425403	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513426187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513487425	geckodriver	INFO	geckodriver 0.19.1
+1510513487429	geckodriver	INFO	Listening on 127.0.0.1:40521
+1510513488601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pDwWFG4Nnl2O"
+1510513489146	Marionette	INFO	Enabled via --marionette
+1510513490540	Marionette	INFO	Listening on port 39387
+1510513490618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513490706	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513492231	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513493497	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513493498	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513494794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513495212	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1510513735195	geckodriver	INFO	geckodriver 0.19.1
+1510513735200	geckodriver	INFO	Listening on 127.0.0.1:45737
+1510513736341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SaILf6RMEbeW"
+1510513736915	Marionette	INFO	Enabled via --marionette
+1510513738266	Marionette	INFO	Listening on port 46257
+1510513738357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513738448	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513738486	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513738800	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513738802	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513755573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513755775	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513756653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513757471	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510513792049	geckodriver	INFO	geckodriver 0.19.1
+1510513792053	geckodriver	INFO	Listening on 127.0.0.1:55451
+1510513793228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FjmfyAoQH3Do"
+1510513793797	Marionette	INFO	Enabled via --marionette
+1510513795144	Marionette	INFO	Listening on port 44377
+1510513795239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513795318	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513795345	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513795378	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513795380	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513795381	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513795425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=https%3A//resident.uidai.gov.in/aadhaarverification&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20resident.uidai.gov.in."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510513803058	geckodriver	INFO	geckodriver 0.19.1
+1510513803063	geckodriver	INFO	Listening on 127.0.0.1:55661
+1510513804204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EL4TaNXUjPJZ"
+1510513804796	Marionette	INFO	Enabled via --marionette
+1510513806245	Marionette	INFO	Listening on port 35219
+1510513806314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513806392	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513806417	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513806781	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513806782	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513808986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513809523	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513810452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513810730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513811524	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510513849066	geckodriver	INFO	geckodriver 0.19.1
+1510513849071	geckodriver	INFO	Listening on 127.0.0.1:49921
+1510513850213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gpm9wSBSCjg2"
+1510513850756	Marionette	INFO	Enabled via --marionette
+1510513852077	Marionette	INFO	Listening on port 38175
+1510513852167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513852246	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513852275	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513852654	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513852655	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513854128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513854490	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510513876279	geckodriver	INFO	geckodriver 0.19.1
+1510513876284	geckodriver	INFO	Listening on 127.0.0.1:49617
+1510513877427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w0yToCmOGDjD"
+1510513877988	Marionette	INFO	Enabled via --marionette
+1510513879400	Marionette	INFO	Listening on port 35621
+1510513879452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513879554	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513879589	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513879811	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513879812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513880816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513881028	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513881806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513882664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513883504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513884368	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513885221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513886053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513886991	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510513936254	geckodriver	INFO	geckodriver 0.19.1
+1510513936261	geckodriver	INFO	Listening on 127.0.0.1:40973
+1510513937398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PQe3gfL95BFI"
+1510513937935	Marionette	INFO	Enabled via --marionette
+1510513939293	Marionette	INFO	Listening on port 46411
+1510513939323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510513939420	Marionette	DEBUG	Register listener.js for window 2147483649
+1510513951927	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510513952536	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510513952537	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510513953891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510513954276	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514061845	geckodriver	INFO	geckodriver 0.19.1
+1510514061849	geckodriver	INFO	Listening on 127.0.0.1:39349
+1510514063024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.os3LG6waEJZx"
+1510514063603	Marionette	INFO	Enabled via --marionette
+1510514066076	Marionette	INFO	Listening on port 40775
+1510514066150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510514066234	Marionette	DEBUG	Register listener.js for window 2147483649
+1510514066253	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510514066827	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510514066828	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510514068024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514068223	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514069271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510514081827	geckodriver	INFO	geckodriver 0.19.1
+1510514081832	geckodriver	INFO	Listening on 127.0.0.1:43523
+1510514082975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X6ghOY43JVJD"
+1510514083519	Marionette	INFO	Enabled via --marionette
+1510514084881	Marionette	INFO	Listening on port 36909
+1510514084989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510514085066	Marionette	DEBUG	Register listener.js for window 2147483649
+1510514085087	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510514085334	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510514085335	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510514086384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514086645	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514087397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514088512	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510514120292	geckodriver	INFO	geckodriver 0.19.1
+1510514120297	geckodriver	INFO	Listening on 127.0.0.1:46957
+1510514121437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5RQuBLO6wsqF"
+1510514121975	Marionette	INFO	Enabled via --marionette
+1510514123338	Marionette	INFO	Listening on port 39595
+1510514123394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510514123490	Marionette	DEBUG	Register listener.js for window 2147483649
+1510514123512	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510514123734	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510514123734	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510514124840	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514125035	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514125852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514126740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514127621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514128951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514187318	geckodriver	INFO	geckodriver 0.19.1
+1510514187323	geckodriver	INFO	Listening on 127.0.0.1:53207
+1510514188467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IxVUcgu38D0m"
+1510514189024	Marionette	INFO	Enabled via --marionette
+1510514190489	Marionette	INFO	Listening on port 38263
+1510514190601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510514190678	Marionette	DEBUG	Register listener.js for window 2147483649
+1510514190696	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510514190928	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510514190928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510514192573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514192919	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514193769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514194632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514195498	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514196346	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514197196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514198052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510514199562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510514685306	geckodriver	INFO	geckodriver 0.19.1
+1510514685311	geckodriver	INFO	Listening on 127.0.0.1:59511
+1510514686449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pZzDibYgHaPg"
+1510514687015	Marionette	INFO	Enabled via --marionette
+1510514688381	Marionette	INFO	Listening on port 39973
+1510514688468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510514688546	Marionette	DEBUG	Register listener.js for window 2147483649
+1510514693190	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510514693532	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510514693533	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510514694490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510514694697	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510515252758	geckodriver	INFO	geckodriver 0.19.1
+1510515252777	geckodriver	INFO	Listening on 127.0.0.1:51505
+1510515253906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XG1EkQ4xxoqr"
+1510515254475	Marionette	INFO	Enabled via --marionette
+1510515255843	Marionette	INFO	Listening on port 34039
+1510515255926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510515256005	Marionette	DEBUG	Register listener.js for window 2147483649
+1510515268173	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510515268480	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510515268481	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510515269865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510515270236	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510515668674	Marionette	DEBUG	Register listener.js for window 4294967297
+1510515668726	Marionette	DEBUG	Register listener.js for window 4294967299
+1510515920800	geckodriver	INFO	geckodriver 0.19.1
+1510515920804	geckodriver	INFO	Listening on 127.0.0.1:36817
+1510515921946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8tnXugh5ovDH"
+1510515922503	Marionette	INFO	Enabled via --marionette
+1510515923960	Marionette	INFO	Listening on port 38605
+1510515924070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510515924143	Marionette	DEBUG	Register listener.js for window 2147483649
+1510515924171	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510515924498	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510515924500	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510515925495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510515925699	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510515926445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515927336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515928172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515929091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515929933	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515930790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515931636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515932472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515933322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515934211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515935129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510515977001	Marionette	DEBUG	Register listener.js for window 2147483653
+1510515977360	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 23019, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-F3VE8N/firefox-57.0+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510516607855	geckodriver	INFO	geckodriver 0.19.1
+1510516607859	geckodriver	INFO	Listening on 127.0.0.1:35925
+1510516609001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jeqRPE09MIJG"
+1510516609539	Marionette	INFO	Enabled via --marionette
+1510516610874	Marionette	INFO	Listening on port 34621
+1510516610955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510516611048	Marionette	DEBUG	Register listener.js for window 2147483649
+1510516611090	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510516611424	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510516611424	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510516612656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510516613070	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510516689855	Marionette	DEBUG	Register listener.js for window 2147483694
+1510516690189	Marionette	DEBUG	Register listener.js for window 4294967297
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1510516892589	geckodriver	INFO	geckodriver 0.19.1
+1510516892593	geckodriver	INFO	Listening on 127.0.0.1:35901
+1510516893732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m4Fuz9dRUuQk"
+1510516894304	Marionette	INFO	Enabled via --marionette
+1510516895657	Marionette	INFO	Listening on port 33877
+1510516895742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510516895841	Marionette	DEBUG	Register listener.js for window 2147483649
+1510516920475	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510516921394	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510516921395	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510516922705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510516922939	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+JavaScript error: https://www.redditstatic.com/videoplayer.AROa8KXpw7I.js, line 13: ReferenceError: event is not defined
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://resident.uidai.gov.in
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1510517371412	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1510517401995	Marionette	DEBUG	Register listener.js for window 6442450945
+1510517531275	geckodriver	INFO	geckodriver 0.19.1
+1510517531280	geckodriver	INFO	Listening on 127.0.0.1:34439
+1510517532420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uEuM5V5IY7Tv"
+1510517532964	Marionette	INFO	Enabled via --marionette
+1510517534360	Marionette	INFO	Listening on port 36675
+1510517534431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510517534526	Marionette	DEBUG	Register listener.js for window 2147483649
+1510517534554	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510517534950	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510517534951	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510517536693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510517537030	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510517537822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510517538693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510517539586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510517540459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510517558674	geckodriver	INFO	geckodriver 0.19.1
+1510517558678	geckodriver	INFO	Listening on 127.0.0.1:50917
+1510517559822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZjOlG2lT5E3Q"
+1510517560368	Marionette	INFO	Enabled via --marionette
+1510517561716	Marionette	INFO	Listening on port 46391
+1510517561736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510517561811	Marionette	DEBUG	Register listener.js for window 2147483649
+1510517561840	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510517562192	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510517562193	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510517563697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510517564016	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510517564786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510517565665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510517566537	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510517657648	geckodriver	INFO	geckodriver 0.19.1
+1510517657653	geckodriver	INFO	Listening on 127.0.0.1:40761
+1510517658798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1vgLekqJHSvI"
+1510517659366	Marionette	INFO	Enabled via --marionette
+1510517660701	Marionette	INFO	Listening on port 37137
+1510517660714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510517660789	Marionette	DEBUG	Register listener.js for window 2147483649
+1510517660832	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510517661124	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510517661125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510517662400	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510517662725	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510517663515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510517799932	geckodriver	INFO	geckodriver 0.19.1
+1510517799937	geckodriver	INFO	Listening on 127.0.0.1:44109
+1510517801094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yR7ieRAdaXFQ"
+1510517801644	Marionette	INFO	Enabled via --marionette
+1510517803015	Marionette	INFO	Listening on port 35101
+1510517803125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510517803205	Marionette	DEBUG	Register listener.js for window 2147483649
+1510517803231	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510517803685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510517803685	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510517812689	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510517813011	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510517813792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510517915096	Marionette	DEBUG	Register listener.js for window 2147483654
+1510517915174	Marionette	DEBUG	Register listener.js for window 2147483656
+1510518045119	geckodriver	INFO	geckodriver 0.19.1
+1510518045125	geckodriver	INFO	Listening on 127.0.0.1:48913
+1510518046266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8seyunYwR25m"
+1510518046828	Marionette	INFO	Enabled via --marionette
+1510518048227	Marionette	INFO	Listening on port 45003
+1510518048277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510518048351	Marionette	DEBUG	Register listener.js for window 2147483649
+1510518056353	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510518056634	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510518056635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510518058094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510518058426	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://resident.uidai.gov.in
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://resident.uidai.gov.in
+1510518190953	Marionette	DEBUG	Register listener.js for window 2147483665
+1510518191301	Marionette	DEBUG	Register listener.js for window 4294967297
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools.js, line 634: TypeError: inspector.selection is undefined
+1510518644125	geckodriver	INFO	geckodriver 0.19.1
+1510518644130	geckodriver	INFO	Listening on 127.0.0.1:59731
+1510518645269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8tQ2e4RUch8y"
+1510518645807	Marionette	INFO	Enabled via --marionette
+1510518647120	Marionette	INFO	Listening on port 36559
+1510518647200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510518647295	Marionette	DEBUG	Register listener.js for window 2147483649
+1510518647329	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510518647693	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510518647694	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510518649098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510518649478	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510518650230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510518651149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510518652001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510518652874	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510518653747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510518654591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 25810, Gecko_IOThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-F3VE8N/firefox-57.0+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510518672949	geckodriver	INFO	geckodriver 0.19.1
+1510518672954	geckodriver	INFO	Listening on 127.0.0.1:40723
+1510518674094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WRF2cHpPMyHc"
+1510518674664	Marionette	INFO	Enabled via --marionette
+1510518676052	Marionette	INFO	Listening on port 44455
+1510518676105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510518676185	Marionette	DEBUG	Register listener.js for window 2147483649
+1510518676231	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510518676603	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510518676604	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510518677650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510518677862	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510518678640	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510518679480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510518680321	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510518713675	geckodriver	INFO	geckodriver 0.19.1
+1510518713679	geckodriver	INFO	Listening on 127.0.0.1:42059
+1510518714824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5BQTTSU0yUC6"
+1510518715367	Marionette	INFO	Enabled via --marionette
+1510518716736	Marionette	INFO	Listening on port 40691
+1510518716839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510518716917	Marionette	DEBUG	Register listener.js for window 2147483649
+1510518716952	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510518717520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510518717521	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510518718788	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510518719058	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510518719816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510518748836	Marionette	DEBUG	Register listener.js for window 2147483654
+1510518749193	Marionette	DEBUG	Register listener.js for window 4294967297
+1510518781886	Marionette	DEBUG	Register listener.js for window 6442450945
+1510519868260	geckodriver	INFO	geckodriver 0.19.1
+1510519868265	geckodriver	INFO	Listening on 127.0.0.1:38197
+1510519869406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lkrIePNEnmbA"
+1510519869977	Marionette	INFO	Enabled via --marionette
+1510519871359	Marionette	INFO	Listening on port 35425
+1510519871422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510519871519	Marionette	DEBUG	Register listener.js for window 2147483649
+1510519871556	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510519891608	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510519891611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510519891612	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510519891668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=https%3A//resident.uidai.gov.in/aadhaarverification&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20resident.uidai.gov.in."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510519903840	geckodriver	INFO	geckodriver 0.19.1
+1510519903845	geckodriver	INFO	Listening on 127.0.0.1:39849
+1510519904985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ELXFr2Icbwtk"
+1510519905571	Marionette	INFO	Enabled via --marionette
+1510519907005	Marionette	INFO	Listening on port 34303
+1510519907098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510519907184	Marionette	DEBUG	Register listener.js for window 2147483649
+1510519907206	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510519916149	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510519916152	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510519916152	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510519916195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=https%3A//resident.uidai.gov.in/aadhaarverification&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20resident.uidai.gov.in."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510519937633	geckodriver	INFO	geckodriver 0.19.1
+1510519937638	geckodriver	INFO	Listening on 127.0.0.1:59037
+1510519938781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gJkWb4Tv0Bks"
+1510519939321	Marionette	INFO	Enabled via --marionette
+1510519940743	Marionette	INFO	Listening on port 34833
+1510519940798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510519940872	Marionette	DEBUG	Register listener.js for window 2147483649
+1510519940909	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510519941193	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510519941194	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510519942234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510519942441	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510519943196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510519964330	geckodriver	INFO	geckodriver 0.19.1
+1510519964335	geckodriver	INFO	Listening on 127.0.0.1:55903
+1510519965474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EQXS4H15neec"
+1510519966051	Marionette	INFO	Enabled via --marionette
+1510519967411	Marionette	INFO	Listening on port 45105
+1510519967494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510519967591	Marionette	DEBUG	Register listener.js for window 2147483649
+1510519967621	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510519967868	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510519967869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510519969327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510519969657	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.obeythetestinggoat.com/how-to-get-selenium-to-wait-for-page-load-after-a-click.html, line 335: TypeError: $(...).foundation is not a function
+JavaScript error: http://www.obeythetestinggoat.com/how-to-get-selenium-to-wait-for-page-load-after-a-click.html, line 339: TypeError: $(...).orbit is not a function
+1510520657083	geckodriver	INFO	geckodriver 0.19.1
+1510520657088	geckodriver	INFO	Listening on 127.0.0.1:60345
+1510520658254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GMXcaiS5GcW2"
+1510520658813	Marionette	INFO	Enabled via --marionette
+1510520660175	Marionette	INFO	Listening on port 46163
+1510520660276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510520660356	Marionette	DEBUG	Register listener.js for window 2147483649
+1510520660391	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510520660693	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510520660694	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510520661666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510520661857	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510520701247	Marionette	DEBUG	Register listener.js for window 2147483654
+1510520701326	Marionette	DEBUG	Register listener.js for window 2147483656
+1510520830369	geckodriver	INFO	geckodriver 0.19.1
+1510520830374	geckodriver	INFO	Listening on 127.0.0.1:37581
+1510520831517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zjHX2TqG0YZ5"
+1510520832136	Marionette	INFO	Enabled via --marionette
+1510520833567	Marionette	INFO	Listening on port 33223
+1510520833636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510520833725	Marionette	DEBUG	Register listener.js for window 2147483649
+1510520833762	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510520834290	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510520834290	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510520835571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510520835922	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510520836789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510520837631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510520838527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510520839396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510520856806	geckodriver	INFO	geckodriver 0.19.1
+1510520856810	geckodriver	INFO	Listening on 127.0.0.1:60349
+1510520857954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MCo320wkhW1h"
+1510520858503	Marionette	INFO	Enabled via --marionette
+1510520859880	Marionette	INFO	Listening on port 46401
+1510520859982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510520860078	Marionette	DEBUG	Register listener.js for window 2147483649
+1510520860111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510520860359	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510520860361	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510520861288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510520861500	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510520862322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510520904566	geckodriver	INFO	geckodriver 0.19.1
+1510520904571	geckodriver	INFO	Listening on 127.0.0.1:33687
+1510520905715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cUH1ysfeLHhK"
+1510520906273	Marionette	INFO	Enabled via --marionette
+1510520908926	Marionette	INFO	Listening on port 38097
+1510520908938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510520909012	Marionette	DEBUG	Register listener.js for window 2147483649
+1510520909058	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510520909295	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510520909296	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510520910590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510520911094	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510520911891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510520912758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510520913706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510521007283	geckodriver	INFO	geckodriver 0.19.1
+1510521007288	geckodriver	INFO	Listening on 127.0.0.1:42573
+1510521008456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6K4CfVtLewyd"
+1510521008992	Marionette	INFO	Enabled via --marionette
+1510521010396	Marionette	INFO	Listening on port 46113
+1510521010513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510521010598	Marionette	DEBUG	Register listener.js for window 2147483649
+1510521010620	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510521011214	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510521011216	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510521012611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521012824	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521013592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510521014433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510521087843	geckodriver	INFO	geckodriver 0.19.1
+1510521087848	geckodriver	INFO	Listening on 127.0.0.1:34039
+1510521088991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dzGVZcBECWzb"
+1510521089536	Marionette	INFO	Enabled via --marionette
+1510521090895	Marionette	INFO	Listening on port 40983
+1510521090918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510521090994	Marionette	DEBUG	Register listener.js for window 2147483649
+1510521091036	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510521091295	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510521091295	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510521092290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521092499	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521189901	geckodriver	INFO	geckodriver 0.19.1
+1510521189905	geckodriver	INFO	Listening on 127.0.0.1:51531
+1510521191071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i1BkFgSsPjy8"
+1510521191609	Marionette	INFO	Enabled via --marionette
+1510521192976	Marionette	INFO	Listening on port 33119
+1510521193087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510521193178	Marionette	DEBUG	Register listener.js for window 2147483649
+1510521193213	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510521193557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510521193557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510521194900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521195273	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521196035	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510521342290	geckodriver	INFO	geckodriver 0.19.1
+1510521342295	geckodriver	INFO	Listening on 127.0.0.1:56667
+1510521343434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iV2QeZE1I04m"
+1510521344020	Marionette	INFO	Enabled via --marionette
+1510521345366	Marionette	INFO	Listening on port 46395
+1510521345456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510521345544	Marionette	DEBUG	Register listener.js for window 2147483649
+1510521345568	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510521345898	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510521345900	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510521347412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521347888	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510521393291	geckodriver	INFO	geckodriver 0.19.1
+1510521393295	geckodriver	INFO	Listening on 127.0.0.1:36291
+1510521394435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.prVRl6iCq3hm"
+1510521394987	Marionette	INFO	Enabled via --marionette
+1510521396339	Marionette	INFO	Listening on port 33553
+1510521396348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510521396433	Marionette	DEBUG	Register listener.js for window 2147483649
+1510521396462	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510521396737	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510521396737	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510521397865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521398078	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521398855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510521399735	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510521425110	Marionette	DEBUG	Register listener.js for window 2147483654
+1510521425194	Marionette	DEBUG	Register listener.js for window 2147483656
+1510521551828	Marionette	DEBUG	Register listener.js for window 4294967297
+1510521563069	Marionette	DEBUG	Register listener.js for window 2147483660
+1510521679340	geckodriver	INFO	geckodriver 0.19.1
+1510521679345	geckodriver	INFO	Listening on 127.0.0.1:51525
+1510521680483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BV7PNl0JLZOE"
+1510521681027	Marionette	INFO	Enabled via --marionette
+1510521682391	Marionette	INFO	Listening on port 39101
+1510521682493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510521682595	Marionette	DEBUG	Register listener.js for window 2147483649
+1510521682633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510521683053	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510521683054	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510521684349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521696630	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521841981	geckodriver	INFO	geckodriver 0.19.1
+1510521841985	geckodriver	INFO	Listening on 127.0.0.1:59369
+1510521843127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QqQS62T0Oel7"
+1510521843683	Marionette	INFO	Enabled via --marionette
+1510521845023	Marionette	INFO	Listening on port 36153
+1510521845055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510521845130	Marionette	DEBUG	Register listener.js for window 2147483649
+1510521845155	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510521845726	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510521845726	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510521847937	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521848479	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510521849255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510521899688	Marionette	DEBUG	Register listener.js for window 2147483654
+1510521900016	Marionette	DEBUG	Register listener.js for window 4294967297
+1510522031911	geckodriver	INFO	geckodriver 0.19.1
+1510522031916	geckodriver	INFO	Listening on 127.0.0.1:51661
+1510522033054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DedoGgQKeSqz"
+1510522033589	Marionette	INFO	Enabled via --marionette
+1510522034946	Marionette	INFO	Listening on port 38469
+1510522034975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522035051	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522035099	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522035421	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522035422	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522036474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522036664	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522037422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522059424	geckodriver	INFO	geckodriver 0.19.1
+1510522059428	geckodriver	INFO	Listening on 127.0.0.1:55127
+1510522060570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.95vqf5yQQBgf"
+1510522061142	Marionette	INFO	Enabled via --marionette
+1510522062496	Marionette	INFO	Listening on port 43321
+1510522062588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522062676	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522062716	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522063037	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522063038	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522064048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522064273	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522065027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522065999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522066865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522067766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522086648	geckodriver	INFO	geckodriver 0.19.1
+1510522086653	geckodriver	INFO	Listening on 127.0.0.1:48983
+1510522087796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NloPo6H44TnX"
+1510522088350	Marionette	INFO	Enabled via --marionette
+1510522089712	Marionette	INFO	Listening on port 45071
+1510522089807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522089906	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522089945	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522090449	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522090449	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522092690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522095454	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522106256	geckodriver	INFO	geckodriver 0.19.1
+1510522106261	geckodriver	INFO	Listening on 127.0.0.1:54417
+1510522107402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.a91DYnoYAH51"
+1510522107943	Marionette	INFO	Enabled via --marionette
+1510522109291	Marionette	INFO	Listening on port 34709
+1510522109354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522109439	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522109459	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522109708	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522109710	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522110926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522111272	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522112171	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522113040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

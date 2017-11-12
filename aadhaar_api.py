@@ -1,9 +1,15 @@
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 from subprocess import call
 from time import sleep
 from os import remove
 import cv2
 import numpy as np
+
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 #==========================================
 #	for thresholding image
@@ -66,7 +72,29 @@ class aadhaar_api():
 			call(["tesseract","thresholded.jpg","word"])
 			sleep(0.1)
 			
-		self.close_browser()		
+	def authenticate_aadhaar(self,aadhaar_no):
+		assert self.captcha_text.isdigit()
+
+		aadhaar_textfield = self.browser.find_element_by_id("uid")
+		aadhaar_textfield.clear()
+		aadhaar_textfield.send_keys(aadhaar_no)
+		aadhaar_textfield.send_keys(Keys.RETURN)
+
+
+
+		captcha = self.browser.find_element_by_id("_aadhaarverification_WAR_AadhaarVerificationportlet_captchaText")
+		captcha.clear()
+		captcha.send_keys(self.captcha_text)
+		captcha.send_keys(Keys.RETURN)
+
+		element = WebDriverWait(self.browser, 10).until(
+        	EC.presence_of_element_located((By.NAME, "Verify Another Aadhaar"))
+    	)
+
+		result = self.browser.find_elements_by_tag_name('h2')[2]
+		# result = self.browser.find_element_by_xpath('//h2[@class="floatLeft marginTop50 fontSize15 fontWeightBold color333333 textAlignCenter width100"]')
+		print result.text
+
 
 	def close_browser(self):
 		self.browser.close()
@@ -91,8 +119,9 @@ class aadhaar_api():
 
 
 
-if __name__ == "__main__":
-	API = aadhaar_api()
-	API.get_captcha_text()
-	API.init_clean()
-	# API.test()
+# if __name__ == "__main__":
+API = aadhaar_api()
+API.get_captcha_text()
+API.authenticate_aadhaar("291560455557")
+	# API.init_clean()
+	# API. close_browser()
