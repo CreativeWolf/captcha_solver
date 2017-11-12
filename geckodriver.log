@@ -1,0 +1,1396 @@
+1510500876451	geckodriver	INFO	geckodriver 0.19.1
+1510500876456	geckodriver	INFO	Listening on 127.0.0.1:56467
+1510500877602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RlSyhfiZtc95"
+1510500878144	Marionette	INFO	Enabled via --marionette
+1510500879490	Marionette	INFO	Listening on port 36377
+1510500879565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510500879646	Marionette	DEBUG	Register listener.js for window 2147483649
+1510500879685	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510500879941	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510500879942	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510500880913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510500881123	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510500981833	geckodriver	INFO	geckodriver 0.19.1
+1510500981838	geckodriver	INFO	Listening on 127.0.0.1:59353
+1510500982986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EV2YYQtnEg0d"
+1510500983520	Marionette	INFO	Enabled via --marionette
+1510500984862	Marionette	INFO	Listening on port 45279
+1510500984921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510500985020	Marionette	DEBUG	Register listener.js for window 2147483649
+1510500985038	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510500985300	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510500985301	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510500986542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510500987131	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510501019969	geckodriver	INFO	geckodriver 0.19.1
+1510501019974	geckodriver	INFO	Listening on 127.0.0.1:38353
+1510501021122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qDmr9cjyVTn9"
+1510501021664	Marionette	INFO	Enabled via --marionette
+1510501023082	Marionette	INFO	Listening on port 40087
+1510501023134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510501023229	Marionette	DEBUG	Register listener.js for window 2147483649
+1510501023265	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510501023511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510501023512	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510501043369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510501043751	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510501335545	geckodriver	INFO	geckodriver 0.19.1
+1510501335550	geckodriver	INFO	Listening on 127.0.0.1:40933
+1510501336694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nou9o4inoDmF"
+1510501337273	Marionette	INFO	Enabled via --marionette
+1510501338692	Marionette	INFO	Listening on port 42335
+1510501338709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510501338787	Marionette	DEBUG	Register listener.js for window 2147483649
+1510501338835	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510501339154	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510501339155	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510501358426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510501358792	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510501831619	geckodriver	INFO	geckodriver 0.19.1
+1510501831624	geckodriver	INFO	Listening on 127.0.0.1:49809
+1510501832768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NNPXPoGkrWnh"
+1510501833339	Marionette	INFO	Enabled via --marionette
+1510501834722	Marionette	INFO	Listening on port 40175
+1510501834799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510501834894	Marionette	DEBUG	Register listener.js for window 2147483649
+1510501834925	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510501835155	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510501835156	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510501836195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510501836398	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510503982347	geckodriver	INFO	geckodriver 0.19.1
+1510503982352	geckodriver	INFO	Listening on 127.0.0.1:40145
+1510503983490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.APC5TZwad9SB"
+1510503984040	Marionette	INFO	Enabled via --marionette
+1510503986252	Marionette	INFO	Listening on port 44261
+1510503986314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510503986397	Marionette	DEBUG	Register listener.js for window 2147483649
+1510503986428	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510503986707	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510503986708	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510503998486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504079294	geckodriver	INFO	geckodriver 0.19.1
+1510504079298	geckodriver	INFO	Listening on 127.0.0.1:56983
+1510504080445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qU25ToWZgKYi"
+1510504080980	Marionette	INFO	Enabled via --marionette
+1510504082389	Marionette	INFO	Listening on port 45943
+1510504082456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510504082540	Marionette	DEBUG	Register listener.js for window 2147483649
+1510504082564	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510504089813	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510504089813	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510504092018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504092829	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504130032	geckodriver	INFO	geckodriver 0.19.1
+1510504130036	geckodriver	INFO	Listening on 127.0.0.1:37419
+1510504131181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rOmR3OQMKshb"
+1510504131732	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510504144137	geckodriver	INFO	geckodriver 0.19.1
+1510504144142	geckodriver	INFO	Listening on 127.0.0.1:55805
+1510504145282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.s48PvsVIpcjT"
+1510504145840	Marionette	INFO	Enabled via --marionette
+1510504147190	Marionette	INFO	Listening on port 41693
+1510504147300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510504147394	Marionette	DEBUG	Register listener.js for window 2147483649
+1510504147424	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510504147669	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510504147670	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510504148948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504149460	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504317406	geckodriver	INFO	geckodriver 0.19.1
+1510504317411	geckodriver	INFO	Listening on 127.0.0.1:47117
+1510504318553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hIsE3yBe3WlR"
+1510504319113	Marionette	INFO	Enabled via --marionette
+1510504320464	Marionette	INFO	Listening on port 39003
+1510504320568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510504320669	Marionette	DEBUG	Register listener.js for window 2147483649
+1510504327796	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510504328412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510504328413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510504330122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504334765	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+JavaScript error: moz-extension://f403b254-da14-4a71-84f3-706baea9e5ac/selector/ui.js, line 62: TypeError: this.sizeTracking is undefined
+1510504389259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504414560	geckodriver	INFO	geckodriver 0.19.1
+1510504414564	geckodriver	INFO	Listening on 127.0.0.1:46919
+1510504415708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4CAep8EeHwlu"
+1510504416366	Marionette	INFO	Enabled via --marionette
+1510504417989	Marionette	INFO	Listening on port 43515
+1510504418049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510504418142	Marionette	DEBUG	Register listener.js for window 2147483649
+1510504426414	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510504426697	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510504426698	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510504427731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504427949	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504445227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504447204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504448202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504448990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504449797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504464113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504464336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504464586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504464827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504465069	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504465323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504465576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504465822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504466073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504466318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504474398	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504474650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504474893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504475140	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504475387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504475633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504475877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504476118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504476362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504476583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504495772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504496028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504496275	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504496529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504496786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504497044	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504497290	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504497536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504497784	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504498031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504659254	geckodriver	INFO	geckodriver 0.19.1
+1510504659259	geckodriver	INFO	Listening on 127.0.0.1:38621
+1510504660402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xg9Hu2qr8O9u"
+1510504660979	Marionette	INFO	Enabled via --marionette
+1510504662308	Marionette	INFO	Listening on port 45227
+1510504662428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510504662505	Marionette	DEBUG	Register listener.js for window 2147483649
+1510504676592	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510504677002	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510504677003	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510504678627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504678948	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504747300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504803311	geckodriver	INFO	geckodriver 0.19.1
+1510504803315	geckodriver	INFO	Listening on 127.0.0.1:43003
+1510504804462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ybBt5dirVdNP"
+1510504805013	Marionette	INFO	Enabled via --marionette
+1510504806334	Marionette	INFO	Listening on port 38197
+1510504806411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510504806492	Marionette	DEBUG	Register listener.js for window 2147483649
+1510504806518	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510504806954	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510504806955	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510504808806	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504809809	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510504865386	geckodriver	INFO	geckodriver 0.19.1
+1510504865391	geckodriver	INFO	Listening on 127.0.0.1:48287
+1510504866536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qrYOjyoeIbQ9"
+1510504867078	Marionette	INFO	Enabled via --marionette
+1510504868465	Marionette	INFO	Listening on port 42881
+1510504868554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510504868655	Marionette	DEBUG	Register listener.js for window 2147483649
+1510504868678	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510504868915	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510504868916	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510504874841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504875013	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510504875547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504875826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504876055	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504876320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504876592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504876854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504877117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504877377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504877633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504877895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504878148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504878405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504878668	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504878928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504879199	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504879463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504879707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504879968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504880242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504880509	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504880777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504881042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504881307	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504881605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504881873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504882142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504882399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504882660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504882913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504883168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504883429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504883673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504883932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504884199	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504884459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504884715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504884973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504885234	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504885491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504885749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504886005	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504886276	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504886532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504886792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504887053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504887306	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504887553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504887814	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504888073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504888329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504888589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504888851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504889112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504889378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504889641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504889903	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504890168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504890426	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504890688	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504890944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504891194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504891451	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504891719	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504891976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504892231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504892486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504892741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504893000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504893259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504893518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504893774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504894030	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504894292	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504894542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504894803	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504895060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504895314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504895574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504895822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504896078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504896337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504896600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504896863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504897119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504897375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504897617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504897869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504898129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504898387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504898641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504898903	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504899158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504899416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504899667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504899921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504900185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504900443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504900699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504900952	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504901212	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504901472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504901731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504901986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504902244	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504902501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504902762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504903014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504903268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504903526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504903783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504904039	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504904304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504904555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504904813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504905075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504905335	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504905589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504905847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504906100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504906353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504906612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504906872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504907133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504907388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504907637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504907888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504908143	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504908399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504908647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504908906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504909167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504909427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504909686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504909921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504910174	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504910427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504910687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504910947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504911199	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504911447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504911705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504911954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504912213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504912469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504912730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504912978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504913230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504913481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504913736	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504913964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504914208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504914460	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504914721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504914981	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504915237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504915493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504915749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504916006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504916257	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504916516	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504916774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504917022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504917279	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504917531	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504917790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504918048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504918308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504918562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504918821	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504919071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504919331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504919584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504919835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504920096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504920356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504920617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504920872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504921129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504921388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504921651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504921911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504922168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504922427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504922683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504922939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504923197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504923456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504923703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504923959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504924214	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504924468	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504924688	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504924929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504925185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504925442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504925664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504925926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504926174	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504926428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504926652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504926912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504927164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504927392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504927614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504927888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504928175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504928397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504928652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504928912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504929158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504929399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504929644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504929900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504930123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504930369	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504930628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504930883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504931146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504931390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504931611	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504931868	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504932124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504932348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504932568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504932849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504933076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504933298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504933520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504933746	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504933998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504934254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504934501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504934750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504935002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504935259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504935508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504935761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504936004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504936253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504936506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504936751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504937003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504937245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504937505	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504937764	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504938021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504938277	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504938532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504938785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504939035	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504939290	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504939566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504939802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504940059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504940284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504940516	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504940771	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504941027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504941273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504941536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504941801	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504942036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504942302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504942547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504942809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504943070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504943331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504943589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504943852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504944112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504944371	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504944651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504944922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504945182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504945446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504945708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504945980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504946239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504946495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504946753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504947009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504947269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504947518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504947776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504948033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504948293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504948553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504948813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504949063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504949313	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504949572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504949834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504950096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504950344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504950604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504950832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504951098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504951359	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504951620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504951879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504952148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504952405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504952666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504952925	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504953180	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504953440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504953701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504953960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504954215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504954474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504954729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504954989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510504955244	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11732, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-F3VE8N/firefox-57.0+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510504966826	geckodriver	INFO	geckodriver 0.19.1
+1510504966831	geckodriver	INFO	Listening on 127.0.0.1:45281
+1510504967974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.k215G96ksWvs"
+1510504968512	Marionette	INFO	Enabled via --marionette
+1510504969943	Marionette	INFO	Listening on port 38779
+1510504969996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510504970087	Marionette	DEBUG	Register listener.js for window 2147483649
+1510504970114	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510504970714	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510504970715	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510504981078	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505245120	geckodriver	INFO	geckodriver 0.19.1
+1510505245125	geckodriver	INFO	Listening on 127.0.0.1:50935
+1510505246266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.p6i5YwD3YTNJ"
+1510505246819	Marionette	INFO	Enabled via --marionette
+1510505248211	Marionette	INFO	Listening on port 37483
+1510505248292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510505248390	Marionette	DEBUG	Register listener.js for window 2147483649
+1510505248418	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510505248687	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510505248688	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510505250086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505250481	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505250970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505251352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505251725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505252100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505252469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505252835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505253197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505253553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505253918	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505254277	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505254650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505255019	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505255385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505255750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505256126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505256501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505256872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505257252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505257609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505257973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505258340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505258700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505259070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505259431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505259778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505260152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505260518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505260885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505261246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505261595	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505261968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505262333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505262696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505263059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505263424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505263787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505264152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505264516	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505264880	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505265245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505265609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505265962	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505266325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505266686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505267048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505267408	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505267761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505268119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505268475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505268838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505269200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505269561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505269918	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505270281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505270642	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505270992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505271354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505271722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505272078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505272444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505272776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505273134	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505273497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505273860	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505274223	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505274586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505274948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505275304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505275665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505276017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505276379	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505276735	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505277090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505277450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505277806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505278164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505278516	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505278873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505279226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505279583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505279941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505280294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505280664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505281037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505281386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505281746	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505282098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505282446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505282798	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505283153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505283504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505283865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505284214	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505284567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505284931	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505285280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505285622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505285983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505286342	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505286696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505287073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505287426	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505287757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505288098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505288437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505288802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505289136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505289476	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505289817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505290150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505290522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505290897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505291261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505291620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505291971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505292331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505292691	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505293053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505293413	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505293777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505294124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505294487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505294885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505295222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505295575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505295938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505296298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505296679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505297035	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505297400	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505297735	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505298101	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505298460	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505298821	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505299197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505299560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505299904	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505300263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505300622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505300982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505301339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505301702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505302059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505302412	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505302772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505303136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505303491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505303849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505304209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505304569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505304926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505305288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505305650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505306011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505306376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505306738	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505307064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505307416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505307772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505308133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505308481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505308836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505309194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505309548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505309908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505310253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505310596	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505310954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505311312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505311673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505312026	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505312390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505312751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505313111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505313463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505313824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505314185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505314540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505314897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505315242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505315602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505315945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505316302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505316659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505317015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505317348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505317709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505318068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505318430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505318788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505319143	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505319487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505319847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505320206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505320569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505320921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505321280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505321638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505321992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505322327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505322685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505323045	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505323412	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505323762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505324121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505324487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505324834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505325194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505325551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505325895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505326261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505326618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505326961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505327319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505327681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505328044	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505328377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505328725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505329079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505329431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505329794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505330124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505330478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505330836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505332565	geckodriver	INFO	geckodriver 0.19.1
+1510505332570	geckodriver	INFO	Listening on 127.0.0.1:37855
+1510505333724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8GkdQr1e0dFx"
+1510505334291	Marionette	INFO	Enabled via --marionette
+1510505335643	Marionette	INFO	Listening on port 35295
+1510505335735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510505335821	Marionette	DEBUG	Register listener.js for window 2147483649
+1510505335851	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510505336115	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510505336116	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510505344583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505344912	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505345396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505345767	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505346128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505346487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505346859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505347213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505347566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505347914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505348272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505348646	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505349014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505349378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505349756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505350133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505350496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505350849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505351213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505351579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505351947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505352314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505451762	geckodriver	INFO	geckodriver 0.19.1
+1510505451767	geckodriver	INFO	Listening on 127.0.0.1:52677
+1510505452910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lRFjDSfgtzMb"
+1510505453483	Marionette	INFO	Enabled via --marionette
+1510505454789	Marionette	INFO	Listening on port 36261
+1510505454821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510505454896	Marionette	DEBUG	Register listener.js for window 2147483649
+1510505454933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510505455535	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510505455536	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510505456781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505477789	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505478221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505478587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505478957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505479322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505479696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505480058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505480421	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505480781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505481141	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505481502	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505481872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505482238	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505482603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505482971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505483330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505483691	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505484052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505484409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505484776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505485139	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505485499	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505485859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505486221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505486584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505486939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505487305	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505487671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505488040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505488398	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505488756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505489122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505489490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505489858	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505490220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505490584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505490955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505491316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505491676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505492033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505492392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505492755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505493116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505493469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505493832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505494192	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505494552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505494911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505495265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505495632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505495990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505496348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505496707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505497060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505497417	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505497776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505498133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505498487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505498839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505499196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505499555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505499916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505500276	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505500633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505500988	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505501348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505501706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505502067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505502414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505502782	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505503141	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505503497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505503856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505504213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505504567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505504925	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505505278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505505637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505505998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505506351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505506712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505507071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505507427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505507790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505508156	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505508515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505508869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505509235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505509599	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505509960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505510319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505510659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505511017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505511358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505511714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505512074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505512428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505512789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505513149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505513506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505513852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505514209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505514571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505514929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505515295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505515655	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505516012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505516392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505516765	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505517136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505517492	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505517845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505518196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505518540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12670, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-F3VE8N/firefox-57.0+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1510505657626	geckodriver	INFO	geckodriver 0.19.1
+1510505657631	geckodriver	INFO	Listening on 127.0.0.1:34769
+1510505658773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Swu92zzt1LNK"
+1510505659310	Marionette	INFO	Enabled via --marionette
+1510505660737	Marionette	INFO	Listening on port 35747
+1510505660792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510505660875	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510505693743	geckodriver	INFO	geckodriver 0.19.1
+1510505693748	geckodriver	INFO	Listening on 127.0.0.1:35137
+1510505694919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tXzyhdXkEKNu"
+1510505695458	Marionette	INFO	Enabled via --marionette
+1510505696824	Marionette	INFO	Listening on port 34013
+1510505696838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510505696916	Marionette	DEBUG	Register listener.js for window 2147483649
+1510505696959	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510505697221	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510505697222	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510505698763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505699114	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505699376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505755739	geckodriver	INFO	geckodriver 0.19.1
+1510505755744	geckodriver	INFO	Listening on 127.0.0.1:53801
+1510505756889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xh6LsscmMn4R"
+1510505757467	Marionette	INFO	Enabled via --marionette
+1510505758848	Marionette	INFO	Listening on port 39553
+1510505758905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510505759003	Marionette	DEBUG	Register listener.js for window 2147483649
+1510505759038	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510505759366	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510505759368	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510505760798	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505761246	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505761522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505761808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505762087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505762357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505762643	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505762935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505763217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505763481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505763752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505764003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505764269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505764519	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505764796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505765075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505765305	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505765577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505765845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505766087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505766325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505766636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505928191	geckodriver	INFO	geckodriver 0.19.1
+1510505928196	geckodriver	INFO	Listening on 127.0.0.1:45565
+1510505929364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kgXBx8O4H2o9"
+1510505929934	Marionette	INFO	Enabled via --marionette
+1510505931283	Marionette	INFO	Listening on port 35271
+1510505931376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510505931450	Marionette	DEBUG	Register listener.js for window 2147483649
+1510505931474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510505931821	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510505931822	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510505932814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505933029	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510505933304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505933568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505933855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505934088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505934339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505934636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505934904	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505935186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505935470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505935736	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505935997	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505936274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505936544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505936798	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505937070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505937336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505937620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505937899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505938170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510505938416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507465605	geckodriver	INFO	geckodriver 0.19.1
+1510507465610	geckodriver	INFO	Listening on 127.0.0.1:53787
+1510507466752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dcoK03PyliYF"
+1510507467334	Marionette	INFO	Enabled via --marionette
+1510507468677	Marionette	INFO	Listening on port 32955
+1510507468763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510507468843	Marionette	DEBUG	Register listener.js for window 2147483649
+1510507468872	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510507469126	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510507469126	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510507470112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510507470344	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510507470613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507470866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507471138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507471430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507471703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507471993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507472259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507472524	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507472779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507473043	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507473319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507473591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507473869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507474128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507474404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507474662	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507474930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507475204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507475475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507475784	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 13708, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-F3VE8N/firefox-57.0+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13708, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-F3VE8N/firefox-57.0+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510507504760	geckodriver	INFO	geckodriver 0.19.1
+1510507504765	geckodriver	INFO	Listening on 127.0.0.1:51875
+1510507505910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zSvN54465vio"
+1510507506472	Marionette	INFO	Enabled via --marionette
+1510507507818	Marionette	INFO	Listening on port 40477
+1510507507922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510507508023	Marionette	DEBUG	Register listener.js for window 2147483649
+1510507508051	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510507508393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510507508394	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510507509385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510507513337	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510507513613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507513892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507514174	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507514446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507514708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507514969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507515243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507515517	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507515803	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507516066	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507516328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507516588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507516859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507517140	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507517422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507517690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507517965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507518240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507518507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507518797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507699040	geckodriver	INFO	geckodriver 0.19.1
+1510507699044	geckodriver	INFO	Listening on 127.0.0.1:43397
+1510507700190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LKfkqgoUPnus"
+1510507700767	Marionette	INFO	Enabled via --marionette
+1510507702146	Marionette	INFO	Listening on port 40455
+1510507702222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510507702319	Marionette	DEBUG	Register listener.js for window 2147483649
+1510507702338	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510507702596	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510507702597	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510507703972	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510507704226	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510507936332	geckodriver	INFO	geckodriver 0.19.1
+1510507936337	geckodriver	INFO	Listening on 127.0.0.1:34053
+1510507937480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IJ2AVklBVUBU"
+1510507938054	Marionette	INFO	Enabled via --marionette
+1510507939435	Marionette	INFO	Listening on port 46027
+1510507939499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510507939579	Marionette	DEBUG	Register listener.js for window 2147483649
+1510507939610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510507939979	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510507939980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510507979828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510507980420	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510507980998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507981484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507981964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507982444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507982957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507983434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507983907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507984367	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507984845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507985315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507985795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507986270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507986745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507987218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507987690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507988159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507988628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507989096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507989565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507990027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507990501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507990968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507991436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507991902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507992376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507992846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507993308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507993773	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507994239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507994702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507995165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507995633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507996103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507996578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507997012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507997482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507997951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507998408	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507998877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507999334	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510507999800	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508000265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508000729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508001193	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508001659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508002122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508002581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508003049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508003508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508003977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508004437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508004892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508005356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508005820	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508006285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508006740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508007205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508007666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508008126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508008593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508009059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508009528	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508009994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508010454	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508010921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508011383	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508011867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508012327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508012798	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508013280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508013752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508014221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508014690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508015154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508015602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508016070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508016543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508017015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508017470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508017928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508018388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508018846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508019312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508019778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508020243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508020711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508021175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508021638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508022091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508022553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508023013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508023481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508023947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508024414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508024872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508025324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508025785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508026230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508026699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508027187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508027664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508028122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508028604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508029072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508029530	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508029998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508030467	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508030934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508031405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508031859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508032326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508032798	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508033270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508033748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508034220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508034696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508035163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508035635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508036114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508036588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508037062	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508037540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508038006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508038479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508038949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508039433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508039921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508040405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508040884	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508041358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508041828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508042289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508042721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508043182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508043641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508044108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508044582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508045051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508045512	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508045956	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508046415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508046878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508047330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508047789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508048256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508048707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508049176	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508049647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508050087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508050550	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508051021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508051495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508051949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508052389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508052842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508053303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508053742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508054199	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508054663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508055101	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508055566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508056026	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508056497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508056957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508057419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508057883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508058328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508058775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508059240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508059700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508060159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508060625	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508061083	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508061555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508062015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508062470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508062936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508063384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508063851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508064313	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508064769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508065236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508065696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508066162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508066627	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508067093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508067563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508068025	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508068486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508068956	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508069429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508069896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508070357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508070815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508071278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508071749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508072214	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508072684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508073153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508073614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508074079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508074543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508075004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508075473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508075939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508076407	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508076874	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508077343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508077806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508078273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508078740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508079206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508079674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508080136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508080606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508081074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508081548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508082017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508082489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508082957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508083424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508083893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508084363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508084831	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508085302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508085771	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508086239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508086697	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508087163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508087632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508088100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508088563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508089030	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508089498	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508089966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508090433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508090893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508091360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508091812	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508092280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508092745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508093211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508093660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508094126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508094594	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508095046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508095507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508095964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508096436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508096902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508097366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508097806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508098226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508098680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508099147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508099615	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508100087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508100547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508100974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508101405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508101841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508102308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508102763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508103233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508103703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508104181	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508104629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508105094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508105559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508106005	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508106470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508106933	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508107401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508107863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508108334	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508108793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508109256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508109727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508110194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508110660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508111127	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508111593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508112059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508112522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508112986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508113450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508113919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508114385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508114850	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508115315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508115783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508116245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508116710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508117175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508117640	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508118105	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508118571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510508119038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
