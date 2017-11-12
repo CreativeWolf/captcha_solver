@@ -2,48 +2,49 @@ from selenium import webdriver
 from subprocess import call
 from time import sleep
 from os import remove
+import cv2
+import numpy as np
 
 #==========================================
 #	for thresholding image
 #==========================================
-import cv2
-import numpy as np
-
-l = ["word.txt","temp.png","thresholded.jpg"]
-for i in l:
-	try:
-		remove(i)
-	except:
-		continue
-
-def threshold(path):
-	img = cv2.imread(path)
-	grayscaled = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
-	retval2,threshold2 = cv2.threshold(grayscaled,125,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
-	# cv2.imshow('original',img)
-	# cv2.imshow('Otsu threshold',threshold2)
-	cv2.imwrite("thresholded.jpg",threshold2)
-	# cv2.waitKey(0)
-	# cv2.destroyAllWindows()
-#==========================================
+# def threshold(path):
+# 	img = cv2.imread(path)
+# 	grayscaled = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+# 	retval2,threshold2 = cv2.threshold(grayscaled,125,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+# 	# cv2.imshow('original',img)
+# 	# cv2.imshow('Otsu threshold',threshold2)
+# 	cv2.imwrite("thresholded.jpg",threshold2)
+# 	# cv2.waitKey(0)
+# 	# cv2.destroyAllWindows()
+# #==========================================
 
 
 class aadhaar_api():
 
 	def __init__(self):
+		self.init_clean()
 		self.browser = webdriver.Firefox()
+		self.captcha_text = None
 
 	def save_screenshot_of_element(self,element):
 		element.screenshot("./temp.png")
-		threshold("./temp.png")		#global function
+		sleep(0.1)
+		
+		img = cv2.imread("./temp.png")
+		grayscaled = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+		retval2,threshold2 = cv2.threshold(grayscaled,125,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+		cv2.imwrite("thresholded.jpg",threshold2)
+		sleep(0.1)
 
 	def check_captcha(self,path):
 		f = open(path,"r")
-		con = f.read().strip()
+		self.captcha_text = f.read().strip()
+		print self.captcha_text
 		
-		if con.isdigit():
+		if self.captcha_text.isdigit():
 			f.close()
-			print "captcha: ",con
+			print "captcha: ",self.captcha_text
 			return True
 		f.close()
 		return False 
@@ -62,6 +63,7 @@ class aadhaar_api():
 			reload.click()
 			sleep(0.1)
 			self.save_screenshot_of_element(img)
+			call(["tesseract","thresholded.jpg","word"])
 			sleep(0.1)
 			
 		self.close_browser()		
@@ -69,19 +71,28 @@ class aadhaar_api():
 	def close_browser(self):
 		self.browser.close()
 
-	def test(self):
-		self.browser.get("https://resident.uidai.gov.in/aadhaarverification")
-		for i in range(20):
-			img = self.browser.find_element_by_xpath('//img[@alt="Text to Identify"]')
-			self.save_screenshot_of_element(img)
-			reload = self.browser.find_element_by_class_name("captcha-reload")
-			reload.click()
+	def init_clean(self):
+		l = ["word.txt","temp.png","thresholded.jpg"]		#initial file cleanup
+		for i in l:
+			try:
+				remove(i)
+			except:
+				continue
 
-		self.close_browser()		
+	# def test(self):
+	# 	self.browser.get("https://resident.uidai.gov.in/aadhaarverification")
+	# 	for i in range(20):
+	# 		img = self.browser.find_element_by_xpath('//img[@alt="Text to Identify"]')
+	# 		self.save_screenshot_of_element(img)
+	# 		reload = self.browser.find_element_by_class_name("captcha-reload")
+	# 		reload.click()
+
+	# 	self.close_browser()		
 
 
 
 if __name__ == "__main__":
 	API = aadhaar_api()
 	API.get_captcha_text()
+	API.init_clean()
 	# API.test()
