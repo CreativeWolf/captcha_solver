@@ -2572,3 +2572,498 @@ JavaScript error: http://www.obeythetestinggoat.com/how-to-get-selenium-to-wait-
 1510522112171	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1510522113040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522254518	geckodriver	INFO	geckodriver 0.19.1
+1510522254522	geckodriver	INFO	Listening on 127.0.0.1:39339
+1510522255665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mUa1Vktfmbyn"
+1510522256227	Marionette	INFO	Enabled via --marionette
+1510522257556	Marionette	INFO	Listening on port 45355
+1510522257584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522257674	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522257702	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522258022	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522258024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522259549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522259909	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522260678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522285473	geckodriver	INFO	geckodriver 0.19.1
+1510522285478	geckodriver	INFO	Listening on 127.0.0.1:41537
+1510522286622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h3nOXbtoz7JU"
+1510522287159	Marionette	INFO	Enabled via --marionette
+1510522288494	Marionette	INFO	Listening on port 42755
+1510522288575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522288677	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522288713	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522289040	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522289041	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522290132	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522290345	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522291098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522291936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522292775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522293635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522295312	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=28F0B40D67558206930A199552749445.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522295402	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=28F0B40D67558206930A199552749445.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522295404	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=28F0B40D67558206930A199552749445.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522295970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522296113	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522351941	geckodriver	INFO	geckodriver 0.19.1
+1510522351946	geckodriver	INFO	Listening on 127.0.0.1:59711
+1510522353091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JYLsRT2XshJx"
+1510522353632	Marionette	INFO	Enabled via --marionette
+1510522354981	Marionette	INFO	Listening on port 34815
+1510522355043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522355128	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522355159	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522355401	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522355402	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522356844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522357163	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522357936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522359928	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=A1D7BF10D341308A349210A14D817FCC.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522360113	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=A1D7BF10D341308A349210A14D817FCC.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522360121	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=A1D7BF10D341308A349210A14D817FCC.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522360780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522360914	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522418306	geckodriver	INFO	geckodriver 0.19.1
+1510522418311	geckodriver	INFO	Listening on 127.0.0.1:55227
+1510522419454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Qk2eVhf4fOWZ"
+1510522420032	Marionette	INFO	Enabled via --marionette
+1510522422239	Marionette	INFO	Listening on port 33107
+1510522422270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522422344	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522422371	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522422626	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522422626	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522423728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522423917	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522424714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522425551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522426457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522427339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522428216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522429087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522429960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522430824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522431677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522432538	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522434252	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=B9D12B04D80FC90A254F9F020ADBF3E6.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522434340	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=B9D12B04D80FC90A254F9F020ADBF3E6.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522434348	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=B9D12B04D80FC90A254F9F020ADBF3E6.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522434878	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522435024	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522453240	geckodriver	INFO	geckodriver 0.19.1
+1510522453244	geckodriver	INFO	Listening on 127.0.0.1:44673
+1510522454385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fJRyfXkeDtjW"
+1510522454933	Marionette	INFO	Enabled via --marionette
+1510522456310	Marionette	INFO	Listening on port 40673
+1510522456401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522456495	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522456522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522456802	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522456803	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522458097	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522458439	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522460257	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=6346E035DB32111F59AC4A133D110363.resident6?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522460450	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=6346E035DB32111F59AC4A133D110363.resident6?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522460453	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=6346E035DB32111F59AC4A133D110363.resident6?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522461117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522461247	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522641672	geckodriver	INFO	geckodriver 0.19.1
+1510522641677	geckodriver	INFO	Listening on 127.0.0.1:45647
+1510522642815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M0plArlhsYHz"
+1510522643383	Marionette	INFO	Enabled via --marionette
+1510522644763	Marionette	INFO	Listening on port 34499
+1510522644831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522644916	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522644946	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522666398	geckodriver	INFO	geckodriver 0.19.1
+1510522666402	geckodriver	INFO	Listening on 127.0.0.1:48433
+1510522667545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tvpu3mP56MiH"
+1510522668095	Marionette	INFO	Enabled via --marionette
+1510522669442	Marionette	INFO	Listening on port 36429
+1510522669470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522669542	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522669576	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522677895	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522677898	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522677899	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522677935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=https%3A//resident.uidai.gov.in/aadhaarverification&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20resident.uidai.gov.in."
+JavaScript error: https://resident.uidai.gov.in/html/js/barebone.jsp?browserId=firefox&themeId=Resident_WAR_Residenttheme&colorSchemeId=01&minifierType=js&minifierBundleId=javascript.barebone.files&languageId=en_US&b=6101&t=1470035325000, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://resident.uidai.gov.in/html/js/barebone.jsp?browserId=firefox&themeId=Resident_WAR_Residenttheme&colorSchemeId=01&minifierType=js&minifierBundleId=javascript.barebone.files&languageId=en_US&b=6101&t=1470035325000, line 3: TypeError: k.getDoc(...).on is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x24008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522691321	geckodriver	INFO	geckodriver 0.19.1
+1510522691326	geckodriver	INFO	Listening on 127.0.0.1:35099
+1510522692469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8FydyIN3qPuk"
+1510522693017	Marionette	INFO	Enabled via --marionette
+1510522694414	Marionette	INFO	Listening on port 40433
+1510522694478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522694554	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522694590	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522695180	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522695182	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522696284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522696505	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522697268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522698144	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522699002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522699875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522718699	geckodriver	INFO	geckodriver 0.19.1
+1510522718703	geckodriver	INFO	Listening on 127.0.0.1:34373
+1510522719849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IbHzVV2DaFOY"
+1510522720424	Marionette	INFO	Enabled via --marionette
+1510522721842	Marionette	INFO	Listening on port 41385
+1510522721861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522721939	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522721986	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522722220	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522722221	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522723418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522723631	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522724430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522725327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522726994	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=F26B16A98B9E5C10FCD365ABAD3482C0.resident5?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522727090	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=F26B16A98B9E5C10FCD365ABAD3482C0.resident5?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522727094	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=F26B16A98B9E5C10FCD365ABAD3482C0.resident5?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522727654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522727789	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522773405	geckodriver	INFO	geckodriver 0.19.1
+1510522773410	geckodriver	INFO	Listening on 127.0.0.1:58659
+1510522774552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z77lvkSguSIM"
+1510522775098	Marionette	INFO	Enabled via --marionette
+1510522776507	Marionette	INFO	Listening on port 39665
+1510522776562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522776644	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522776682	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522776921	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522776922	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522778415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522778757	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522780635	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=CA28FF09825B617DCCE4307760E84167.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522780833	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=CA28FF09825B617DCCE4307760E84167.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522780837	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=CA28FF09825B617DCCE4307760E84167.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522781498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522781629	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522781641	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522781833	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522781838	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522782303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522782440	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522783199	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522784067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522784937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522785842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522786713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522788660	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522788843	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522788844	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522789301	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522789437	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510522882421	geckodriver	INFO	geckodriver 0.19.1
+1510522882425	geckodriver	INFO	Listening on 127.0.0.1:36119
+1510522883565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.W3nBn3gqVHKt"
+1510522884109	Marionette	INFO	Enabled via --marionette
+1510522885574	Marionette	INFO	Listening on port 45735
+1510522885696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510522885783	Marionette	DEBUG	Register listener.js for window 2147483649
+1510522885802	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510522886059	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510522886060	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510522887509	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522887849	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522888643	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510522890625	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=70352B92A904E75A0EF43E6E86E9CA32.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522890822	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=70352B92A904E75A0EF43E6E86E9CA32.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522890825	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=70352B92A904E75A0EF43E6E86E9CA32.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522891277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522891407	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522891418	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522891612	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522891618	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522892070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522892206	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522894056	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522894241	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522894244	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510522894729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510522894877	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+Sandbox: Unexpected EOF, op 0 flags 0302 path /dev/shm/org.chromium.Y74F0c
+[Child 30962, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-F3VE8N/firefox-57.0+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510523631328	geckodriver	INFO	geckodriver 0.19.1
+1510523631333	geckodriver	INFO	Listening on 127.0.0.1:53131
+1510523632476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mOTsRaWl3yCq"
+1510523633455	Marionette	INFO	Enabled via --marionette
+1510523635137	Marionette	INFO	Listening on port 45009
+1510523635191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510523635271	Marionette	DEBUG	Register listener.js for window 2147483649
+1510523635312	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510523635956	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510523635957	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510523637316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523639081	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523639909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523640778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523641620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523642503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523643382	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523644248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523645162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523646027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523646874	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523649325	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8DB0F873222FE42EA31C1C7397D0AF9F.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523649528	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8DB0F873222FE42EA31C1C7397D0AF9F.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523649531	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8DB0F873222FE42EA31C1C7397D0AF9F.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523650122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523650259	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523650272	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523650598	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523650603	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523651621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523651757	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523652503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523653378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523654237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523656214	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523656397	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523656399	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523657057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523657213	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523800058	geckodriver	INFO	geckodriver 0.19.1
+1510523800063	geckodriver	INFO	Listening on 127.0.0.1:57091
+1510523801211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YtgA9MW31bbA"
+1510523801771	Marionette	INFO	Enabled via --marionette
+1510523803261	Marionette	INFO	Listening on port 42667
+1510523803322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510523803422	Marionette	DEBUG	Register listener.js for window 2147483649
+1510523803447	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510523804080	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510523804081	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510523805254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523805458	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523807013	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8D35B968C78734839EB480CF815577D8.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523807109	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8D35B968C78734839EB480CF815577D8.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523807112	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8D35B968C78734839EB480CF815577D8.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523807637	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523807771	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523807779	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523807876	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523807881	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523808397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523808543	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523809310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523810175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523811051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523812764	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523812868	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523812872	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523813403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523813543	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523813555	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523813650	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523813655	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523814239	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523814371	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510523845446	geckodriver	INFO	geckodriver 0.19.1
+1510523845451	geckodriver	INFO	Listening on 127.0.0.1:45913
+1510523846596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2IN93s59CdBz"
+1510523847160	Marionette	INFO	Enabled via --marionette
+1510523848581	Marionette	INFO	Listening on port 33889
+1510523848612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510523848686	Marionette	DEBUG	Register listener.js for window 2147483649
+1510523848724	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510523848966	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510523848967	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510523850310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523850645	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523851470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523853466	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8495804FFF1AEB06DE9697CA5B103BB2.resident1?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523853657	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8495804FFF1AEB06DE9697CA5B103BB2.resident1?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523853660	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=8495804FFF1AEB06DE9697CA5B103BB2.resident1?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523854331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523854461	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523854469	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523854668	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523854673	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523855344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523855478	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523856248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523858207	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523858399	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523858400	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523859069	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523859216	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523859225	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523859418	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523859423	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523860094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523860230	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523861876	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523862068	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523862073	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523862763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523862907	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523895106	geckodriver	INFO	geckodriver 0.19.1
+1510523895110	geckodriver	INFO	Listening on 127.0.0.1:56329
+1510523896254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dY0DejkJ0a7V"
+1510523896799	Marionette	INFO	Enabled via --marionette
+1510523898263	Marionette	INFO	Listening on port 36009
+1510523898366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510523898456	Marionette	DEBUG	Register listener.js for window 2147483649
+1510523898474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510523899136	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510523899137	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510523908358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523908700	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523910537	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=A9BF724915148CA74E95946DFA0DFC4C.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523910740	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=A9BF724915148CA74E95946DFA0DFC4C.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523910744	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=A9BF724915148CA74E95946DFA0DFC4C.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523911211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523911352	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523911378	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523911564	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523911569	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523912085	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523912213	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523914026	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523914220	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523914223	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523914875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523915015	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523915026	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523915221	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523915226	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523915916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523916046	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523916833	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523917692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523918526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523919385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523920230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510523921980	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523922168	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523922171	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510523922850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523923010	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510523950085	Marionette	DEBUG	Register listener.js for window 2147483664
+1510523950441	Marionette	DEBUG	Register listener.js for window 4294967297
+1510524164095	geckodriver	INFO	geckodriver 0.19.1
+1510524164101	geckodriver	INFO	Listening on 127.0.0.1:46525
+1510524165264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kTFmjTWNayUX"
+1510524165830	Marionette	INFO	Enabled via --marionette
+1510524167217	Marionette	INFO	Listening on port 44561
+1510524167295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510524167374	Marionette	DEBUG	Register listener.js for window 2147483649
+1510524167402	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510524167752	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510524167753	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510524168779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524168972	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524170650	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=397375616A32786E076C4913C5163E15.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524170744	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=397375616A32786E076C4913C5163E15.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524170748	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=397375616A32786E076C4913C5163E15.resident3?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524171361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524171497	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524173037	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524173128	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524173132	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524173652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524173780	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524174583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510524199599	geckodriver	INFO	geckodriver 0.19.1
+1510524199604	geckodriver	INFO	Listening on 127.0.0.1:59789
+1510524200763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IG2wXHcIRq3l"
+1510524201455	Marionette	INFO	Enabled via --marionette
+1510524202857	Marionette	INFO	Listening on port 36947
+1510524202924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510524203004	Marionette	DEBUG	Register listener.js for window 2147483649
+1510524203036	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510524203294	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510524203295	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510524204672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524205062	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524207002	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=1C8F2A708BAB9A536E943BB81074BC41.resident1?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524207196	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=1C8F2A708BAB9A536E943BB81074BC41.resident1?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524207198	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=1C8F2A708BAB9A536E943BB81074BC41.resident1?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524207873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524208006	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524208792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524209705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524210568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524211446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524212332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524213198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524214089	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524216036	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524216231	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524216234	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524216942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524217073	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524254051	geckodriver	INFO	geckodriver 0.19.1
+1510524254056	geckodriver	INFO	Listening on 127.0.0.1:40287
+1510524255201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hBvM5xnZ5eps"
+1510524255748	Marionette	INFO	Enabled via --marionette
+1510524257181	Marionette	INFO	Listening on port 35859
+1510524257213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510524257286	Marionette	DEBUG	Register listener.js for window 2147483649
+1510524257321	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510524257569	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510524257570	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510524258576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524258801	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524259573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524261174	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=BCEF3A31C5FB21C6271808D43B0D560C.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524261263	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=BCEF3A31C5FB21C6271808D43B0D560C.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524261265	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=BCEF3A31C5FB21C6271808D43B0D560C.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524261805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524261941	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524263512	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524263606	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524263609	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524264146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524264281	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524265084	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524265931	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524266773	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524267649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524268503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524269457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524413582	geckodriver	INFO	geckodriver 0.19.1
+1510524413586	geckodriver	INFO	Listening on 127.0.0.1:57769
+1510524414726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FpyNBdLh33IM"
+1510524415265	Marionette	INFO	Enabled via --marionette
+1510524416655	Marionette	INFO	Listening on port 41581
+1510524416742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510524416844	Marionette	DEBUG	Register listener.js for window 2147483649
+1510524416882	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510524417373	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510524417374	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510524418742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524419126	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524421007	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=815BCFD51D8D5BFF08AF6016B6C874B9.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524421202	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=815BCFD51D8D5BFF08AF6016B6C874B9.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524421204	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification;jsessionid=815BCFD51D8D5BFF08AF6016B6C874B9.resident4?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524421891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524422020	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524422806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524423776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524424670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524425570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524426415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510524428379	Marionette	DEBUG	Received DOM event "beforeunload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524428573	Marionette	DEBUG	Received DOM event "pagehide" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524428577	Marionette	DEBUG	Received DOM event "unload" for "https://resident.uidai.gov.in/aadhaarverification?p_p_id=aadhaarverification_WAR_AadhaarVerificationportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_aadhaarverification_WAR_AadhaarVerificationportlet_javax.portlet.action=aadhaarVerification"
+1510524429262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://resident.uidai.gov.in/aadhaarverification"
+1510524429460	Marionette	DEBUG	Received DOM event "pageshow" for "https://resident.uidai.gov.in/aadhaarverification"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
